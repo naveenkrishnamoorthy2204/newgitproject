@@ -5,7 +5,7 @@ public class newproject {
 		System.out.println("ho welcome to the git repository");
 		//this is the new commit system 
 
-		
+		System.out.println("this is the new chnages to commit");
 	}
 
 }
