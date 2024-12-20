@@ -7,6 +7,8 @@ public class newproject {
 
 		System.out.println("this is the new chnages to commit");
 //edite the file from git hub 
+
+  System.out.println("i am changed from the local repo");
 		
 		
 	}
